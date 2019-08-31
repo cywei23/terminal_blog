@@ -1,5 +1,4 @@
-# terminal_blog
-Python App for Posting Blogs with MongoDB
+## Python App for Posting Blogs with MongoDB
 
 ### Start MongoDB
 - Go to command prompt and type mongod
