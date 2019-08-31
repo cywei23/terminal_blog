@@ -4,7 +4,7 @@
 - Go to command prompt and type mongod
 
 ### Access data
-- Open mongo.ext
+- Open mongo.exe
 - show dbs
 - use fullstack
 - show collections
